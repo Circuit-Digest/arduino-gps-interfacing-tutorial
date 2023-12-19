@@ -1,6 +1,8 @@
 # Neo-6M GPS Module with Arduino using TinyGPSPlus
 
 Welcome to the Neo-6M GPS Module project with Arduino using the TinyGPSPlus library. This guide provides a detailed walkthrough on connecting the NEO-6M GPS module to an Arduino board, understanding its components, and coding for accurate location-based data retrieval.
+
+
 ![image](https://github.com/Circuit-Digest/arduino-gps-interfacing-tutorial/assets/65025308/fc8a0686-000a-4070-b22f-f7da1b8a6b91)
 
 
@@ -47,6 +49,10 @@ Explore additional Arduino projects using the Neo-6M GPS module. Find inspiratio
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated.
+
+## Special Thanks
+
+A special thanks to [Mikal Hart](https://github.com/mikalhart) for the incredible TinyGPSPlus library. Their dedication and contributions have greatly enriched this project.
 
 ## License
 
